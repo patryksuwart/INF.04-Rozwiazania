@@ -22,18 +22,18 @@ Każdy folder odpowiada konkretnemu terminowi egzaminu i zawiera pliki z kodem �
 
 | Folder                  | Data egzaminu       | Opis                                   | Link                                  |
 |-------------------------|---------------------|----------------------------------------|---------------------------------------|
-| `INF.04-01-21.06-SG`    | 21 czerwca          | Rozwiązania dla sesji 21 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-21.06-SG) |
-| `INF.04-01-22.06-SG`    | 22 czerwca          | Rozwiązania dla sesji 22 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-22.06-SG) |
-| `INF.04-01-23.01-SG`    | 23 stycznia         | Rozwiązania dla sesji 23 stycznia.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-23.01-SG) |
-| `INF.04-01-23.06-SG`    | 23 czerwca          | Rozwiązania dla sesji 23 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-23.06-SG) |
-| `INF.04-01-24.01-SG`    | 24 stycznia         | Rozwiązania dla sesji 24 stycznia.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-24.01-SG) |
-| `INF.04-01-24.06-SG`    | 24 czerwca          | Rozwiązania dla sesji 24 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-24.06-SG) |
-| `INF.04-02-22.06-SG`    | 22 czerwca          | Rozwiązania dla sesji 22 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-22.06-SG) |
-| `INF.04-02-23.01-SG`    | 23 stycznia         | Rozwiązania dla sesji 23 stycznia.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-23.01-SG) |
-| `INF.04-02-23.06-SG`    | 23 czerwca          | Rozwiązania dla sesji 23 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-23.06-SG) |
-| `INF.04-02-24.01-SG`    | 24 stycznia         | Rozwiązania dla sesji 24 stycznia.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-24.01-SG) |
-| `INF.04-02-24.06-SG`    | 24 czerwca          | Rozwiązania dla sesji 24 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-24.06-SG) |
-| `INF.04-03-23.06-SG`    | 23 czerwca          | Rozwiązania dla sesji 23 czerwca.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-03-23.06-SG) |
+| `INF.04-01-21.06-SG`    | 2021 czerwiec         | Rozwiązania dla sesji 2021 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-21.06-SG) |
+| `INF.04-01-22.06-SG`    | 2022 czerwiec          | Rozwiązania dla sesji 2022 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-22.06-SG) |
+| `INF.04-01-23.01-SG`    | 2023 styczeń         | Rozwiązania dla sesji 2023 styczeń.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-23.01-SG) |
+| `INF.04-01-23.06-SG`    | 2023 czerwiec          | Rozwiązania dla sesji 2023 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-23.06-SG) |
+| `INF.04-01-24.01-SG`    | 2024 styczeń         | Rozwiązania dla sesji 2024 styczeń.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-24.01-SG) |
+| `INF.04-01-24.06-SG`    | 2024 czerwiec          | Rozwiązania dla sesji 2024 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-01-24.06-SG) |
+| `INF.04-02-22.06-SG`    | 2022 czerwiec          | Rozwiązania dla sesji 2022 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-22.06-SG) |
+| `INF.04-02-23.01-SG`    | 2023 styczeń         | Rozwiązania dla sesji 2023 styczeń.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-23.01-SG) |
+| `INF.04-02-23.06-SG`    | 2023 czerwiec          | Rozwiązania dla sesji 2023 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-23.06-SG) |
+| `INF.04-02-24.01-SG`    | 2024 styczeń         | Rozwiązania dla sesji 2024 styczeń.     | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-24.01-SG) |
+| `INF.04-02-24.06-SG`    | 2024 czerwiec          | Rozwiązania dla sesji 2024 czerwiec.      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-02-24.06-SG) |
+| `INF.04-03-23.06-SG`    | 2023 czerwiec          | Rozwiązania dla sesji 2023 czerwiec .      | [Link do folderu](https://github.com/patryksuwart/INF.04-Rozwiazania/tree/main/INF.04-03-23.06-SG) |
 
 📂 **Struktura folderów i plików**:
 - Każdy folder zawiera:
