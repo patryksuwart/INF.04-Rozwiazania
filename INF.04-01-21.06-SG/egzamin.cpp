@@ -1,3 +1,17 @@
+/********************
+
+* nazwa funkcji: <sortuj>
+* parametry wejściowe: <tab> - <przechowuje wartości liczbowe w prowadzone z klawiatury do tablicy>
+* wartość zwracana: <brak>
+
+* nazwa funkcji: <najwyzsza>
+* parametry wejściowe: <tab> - <przechowuje wartości liczbowe w prowadzone z klawiatury do tablicy>, <start> - <indeks startowy tablicy>
+* wartość zwracana: <zwraca największą liczbę z tablicy>
+
+* autor: <PATRYK SUWART>
+
+*********************/
+
 #include <iostream>
 using namespace std;
 
